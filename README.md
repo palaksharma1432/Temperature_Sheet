@@ -47,8 +47,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out!<br><br>
 
-Poorvi Gupta<br>
-poorviguptacom@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/poorvi-gupta-a817032a0<br>
-## 
-Thank you for checking out this project! Let’s dive deep into the temperature trends of Jaipur’s winter season! ❄️🌡️
+Palak Sharma<br>
+22cse079@gweca.ac.in<br>
+Linkedin: https://www.linkedin.com/in/palak-sharma-4799672b1/
